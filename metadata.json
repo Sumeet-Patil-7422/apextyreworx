@@ -1,0 +1,6 @@
+{
+  "name": "APEX TYREWORX - Engineered for Every Road",
+  "description": "High-performance automotive tyres landing page featuring advanced tread technology, special offers, interactive tyre care tools, and tyre finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
